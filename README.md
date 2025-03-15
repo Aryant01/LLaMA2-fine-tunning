@@ -98,7 +98,7 @@ Weights & Biases (`wandb`) is used to:
 - **Investigating Long-Term Stability:** Evaluating the long-term stability and robustness of QLoRA fine-tuned models in dynamic and real-world applications.
 - **Enhancing Deployment Scalability:** Developing strategies to optimize the deployment of QLoRA fine-tuned models in resource-constrained environments.
 
-- For a comprehensive comparison of various fine-tuning methods, including QLoRA, and their performance metrics, refer to the research paper "A Comparison of LLM Fine-tuning Methods and Evaluation Metrics" LINK
+- For a comprehensive comparison of various fine-tuning methods, including QLoRA, and their performance metrics, refer to the research paper "A Comparison of LLM Fine-tuning Methods and Evaluation Metrics" - https://arxiv.org/abs/2408.03562
 
 ## Conclusion
 
